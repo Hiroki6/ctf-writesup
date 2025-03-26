@@ -1,4 +1,4 @@
-# heap-dump
+# head-dump
 
 There is /api-doc endpoint rewritten in html.
 This endpoint displays a swagger UI.
