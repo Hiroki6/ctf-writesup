@@ -2,7 +2,7 @@
 
 Packets with 4 or 12 bytes have a base64 encoded string.
 
-![Ph4nt0m 1ntrud3r](./ph4nt0m_1ntrud3r_1.png)
+![Ph4nt0m 1ntrud3r](./Ph4nt0m_1ntrud3r_1.png)
 
 I sorted these base64 string by the timestamp.
 After decoding and connecting them, I got the flag.
