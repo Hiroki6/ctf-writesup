@@ -2,7 +2,7 @@
 
 After some experiments, I found the `p` and `e` can have only two possible values based on the `R`.
 So, I can reproduce the actual values of `p` and `e` to satisfy the condition so that I can decrypt the flag.
-```
+```python
 while True:
     r = getRandomNBitInteger(512)
     p = vinad(r, R)
